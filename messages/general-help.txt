@@ -1,0 +1,11 @@
+**PhySU Help**
+`!website` to access the PhySU website and student resources
+`!exec` to see the list of PhySU executives
+`!edwitten` for a brief bio of Ed Witten
+`!events` to see upcoming PhySU events (use `!events;n` for next n events)
+`!screm` for stress relief
+`!fortune [question]` for making important decisions
+`!EdGPT [message]` to chat with Ed Witten (also works by replying to Ed's messages)
+`!edtime` to check the current server time
+`!removeohio` to remove Ohio from your world
+`!source` to see Ed Witten's source code

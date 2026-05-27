@@ -1,0 +1,3 @@
+Post your verification key here, including the `$` at the start. You should be instantly verified and ready to start talking!
+
+Attempting to use a duplicate verification key will result in an instant permaban.

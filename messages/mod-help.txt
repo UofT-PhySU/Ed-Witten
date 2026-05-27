@@ -1,0 +1,19 @@
+**For Mods**
+`!purgechannel` to purge {refresh_channel_text} (can be used from anywhere)
+`!purgechannel;[channel id];[n]` to delete n messages in a specific channel
+`!sendm;[message]` to send a message as Ed Witten in the current channel (supports attachments)
+`!sendmessage` to send a pre-written message as Ed Witten
+`!stmes;[dd.mm.yy];[hh:mm];[channel id];[text]` to schedule a message for the future
+`!showtmes` to see all scheduled messages
+`!deltmes;[n]` to delete a scheduled message by index
+`!delquote;[n]` to delete a quote by index
+`!setupcourses;[courses.csv];[messageids.csv]` to set up course channels, roles, and reaction roles
+`!createcourses [course codes]` to create individual course channels
+`!editcoursemes;[message id];[title];[description];[roles]` to edit a Carl-bot reaction roles message
+`!newyearcat` to set up course categories for a new year
+`!delcat_[category name]` to delete a category and all its channels
+`!archivecat_[category]_[archive name]` to archive a category (mod-only visibility)
+`!edit;[channel id];[message id];[new text]` to edit one of Ed's messages
+Paste any verification key into <#{VERIFICATION_CHANNEL}> to check who it's for and whether it's expired
+`!user;[discord id]` to look up a user by their Discord ID
+`!courseSetupInstructions` for a link to the course setup guide
