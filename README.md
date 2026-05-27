@@ -3,5 +3,5 @@ This bot runs on the official Discord server of the Physics Student Union at the
 
 Note to future maintainers: whatever you do, do not commit .env.
 
-Maintainer (2025-2026): Aryan Prasad
+Maintainer (2025-2026): Aryan Prasad  
 Previous Contributors: Ivan Ovchinnikov, Shuhan Zheng, Sam Li, Wentao Cui
